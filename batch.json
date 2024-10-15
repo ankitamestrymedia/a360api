@@ -1,0 +1,216 @@
+{
+  "batches": [
+    {
+      "batchId": "BATCH001",
+      "batchName": "January Promotions",
+      "batchAge": 20,
+      "batchRevenue": 8000,
+      "cpc": 0.45,
+      "cpm": 9.5,
+      "date": "2024-01-10",
+      "campaigns": [
+        {
+          "campaignId": "CAMP001",
+          "campaignName": "New Year Kickoff",
+          "revenue": 3000,
+          "cpc": 0.40,
+          "cpm": 9.0,
+          "startDate": "2024-01-01",
+          "endDate": "2024-01-15"
+        },
+        {
+          "campaignId": "CAMP002",
+          "campaignName": "Winter Clearance",
+          "revenue": 5000,
+          "cpc": 0.50,
+          "cpm": 10.0,
+          "startDate": "2024-01-10",
+          "endDate": "2024-01-30"
+        }
+      ]
+    },
+    {
+      "batchId": "BATCH002",
+      "batchName": "March Flash Sales",
+      "batchAge": 15,
+      "batchRevenue": 6000,
+      "cpc": 0.52,
+      "cpm": 11.5,
+      "date": "2024-03-05",
+      "campaigns": [
+        {
+          "campaignId": "CAMP003",
+          "campaignName": "Spring Launch",
+          "revenue": 2500,
+          "cpc": 0.48,
+          "cpm": 10.5,
+          "startDate": "2024-03-01",
+          "endDate": "2024-03-20"
+        },
+        {
+          "campaignId": "CAMP004",
+          "campaignName": "March Madness",
+          "revenue": 3500,
+          "cpc": 0.55,
+          "cpm": 12.0,
+          "startDate": "2024-03-10",
+          "endDate": "2024-03-25"
+        }
+      ]
+    },
+    {
+      "batchId": "BATCH003",
+      "batchName": "Summer Campaigns",
+      "batchAge": 30,
+      "batchRevenue": 10000,
+      "cpc": 0.47,
+      "cpm": 9.8,
+      "date": "2024-06-15",
+      "campaigns": [
+        {
+          "campaignId": "CAMP005",
+          "campaignName": "Summer Fashion",
+          "revenue": 4000,
+          "cpc": 0.42,
+          "cpm": 9.0,
+          "startDate": "2024-06-01",
+          "endDate": "2024-06-30"
+        },
+        {
+          "campaignId": "CAMP006",
+          "campaignName": "Beachwear Special",
+          "revenue": 6000,
+          "cpc": 0.50,
+          "cpm": 10.2,
+          "startDate": "2024-06-10",
+          "endDate": "2024-07-05"
+        }
+      ]
+    },
+    {
+      "batchId": "BATCH004",
+      "batchName": "August Back-to-School",
+      "batchAge": 25,
+      "batchRevenue": 7500,
+      "cpc": 0.54,
+      "cpm": 11.0,
+      "date": "2024-08-01",
+      "campaigns": [
+        {
+          "campaignId": "CAMP007",
+          "campaignName": "Back-to-School Essentials",
+          "revenue": 3500,
+          "cpc": 0.50,
+          "cpm": 10.5,
+          "startDate": "2024-08-01",
+          "endDate": "2024-08-20"
+        },
+        {
+          "campaignId": "CAMP008",
+          "campaignName": "School Supply Discount",
+          "revenue": 4000,
+          "cpc": 0.58,
+          "cpm": 11.5,
+          "startDate": "2024-08-10",
+          "endDate": "2024-08-30"
+        }
+      ]
+    },
+    {
+      "batchId": "BATCH005",
+      "batchName": "October Fall Campaigns",
+      "batchAge": 20,
+      "batchRevenue": 9000,
+      "cpc": 0.50,
+      "cpm": 9.7,
+      "date": "2024-10-05",
+      "campaigns": [
+        {
+          "campaignId": "CAMP009",
+          "campaignName": "Autumn Collection",
+          "revenue": 5000,
+          "cpc": 0.47,
+          "cpm": 9.5,
+          "startDate": "2024-10-01",
+          "endDate": "2024-10-20"
+        },
+        {
+          "campaignId": "CAMP010",
+          "campaignName": "Halloween Special",
+          "revenue": 4000,
+          "cpc": 0.53,
+          "cpm": 10.0,
+          "startDate": "2024-10-15",
+          "endDate": "2024-10-31"
+        },
+        {
+          "campaignId": "CAMP010",
+          "campaignName": "Halloween Special",
+          "revenue": 4000,
+          "cpc": 0.53,
+          "cpm": 10.0,
+          "startDate": "2024-10-15",
+          "endDate": "2024-10-31"
+        }
+      ]
+    },
+    {
+      "batchId": "BATCH006",
+      "batchName": "November Holiday Prep",
+      "batchAge": 35,
+      "batchRevenue": 12000,
+      "cpc": 0.44,
+      "cpm": 8.9,
+      "date": "2024-11-10",
+      "campaigns": [
+        {
+          "campaignId": "CAMP011",
+          "campaignName": "Black Friday Deals",
+          "revenue": 7000,
+          "cpc": 0.40,
+          "cpm": 8.5,
+          "startDate": "2024-11-15",
+          "endDate": "2024-11-30"
+        },
+        {
+          "campaignId": "CAMP012",
+          "campaignName": "Cyber Monday Special",
+          "revenue": 5000,
+          "cpc": 0.48,
+          "cpm": 9.2,
+          "startDate": "2024-11-25",
+          "endDate": "2024-12-05"
+        }
+      ]
+    },
+    {
+      "batchId": "BATCH007",
+      "batchName": "December End of Year",
+      "batchAge": 40,
+      "batchRevenue": 15000,
+      "cpc": 0.43,
+      "cpm": 8.6,
+      "date": "2024-12-01",
+      "campaigns": [
+        {
+          "campaignId": "CAMP013",
+          "campaignName": "Holiday Shopping Spree",
+          "revenue": 8000,
+          "cpc": 0.39,
+          "cpm": 8.0,
+          "startDate": "2024-12-01",
+          "endDate": "2024-12-31"
+        },
+        {
+          "campaignId": "CAMP014",
+          "campaignName": "New Year's Celebration",
+          "revenue": 7000,
+          "cpc": 0.47,
+          "cpm": 9.0,
+          "startDate": "2024-12-15",
+          "endDate": "2025-01-05"
+        }
+      ]
+    }
+  ]
+}
