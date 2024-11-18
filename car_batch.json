@@ -5,7 +5,7 @@
       "batchName": "Brand B",
       "batchCategory": "Luxury",
       "batchDescription": "High-end cars from Brand B.",
-      "batchPriceRange": "40000-60000",
+      "averagePrice": "40000",
       "cars": [
         {
           "carId": "CAR001_01",
@@ -43,14 +43,15 @@
             "transmission": "Manual"
           }
         }
-      ]
+      ],
+      "batchSale": 13225
     },
     {
       "batchId": "BATCH002",
       "batchName": "Brand C",
       "batchCategory": "Economy",
       "batchDescription": "Affordable cars from Brand C.",
-      "batchPriceRange": "15000-25000",
+      "averagePrice": "25000",
       "cars": [
         {
           "carId": "CAR002_01",
@@ -88,14 +89,15 @@
             "transmission": "Manual"
           }
         }
-      ]
+      ],
+      "batchSale": 6029
     },
     {
       "batchId": "BATCH003",
       "batchName": "Brand D",
       "batchCategory": "Luxury",
       "batchDescription": "High-end cars from Brand D.",
-      "batchPriceRange": "40000-60000",
+      "averagePrice": "40000",
       "cars": [
         {
           "carId": "CAR003_01",
@@ -133,14 +135,15 @@
             "transmission": "Manual"
           }
         }
-      ]
+      ],
+      "batchSale": 11137
     },
     {
       "batchId": "BATCH004",
       "batchName": "Brand E",
       "batchCategory": "Economy",
       "batchDescription": "Affordable cars from Brand E.",
-      "batchPriceRange": "15000-25000",
+      "averagePrice": "25000",
       "cars": [
         {
           "carId": "CAR004_01",
@@ -178,14 +181,15 @@
             "transmission": "Manual"
           }
         }
-      ]
+      ],
+      "batchSale": 8297
     },
     {
       "batchId": "BATCH005",
       "batchName": "Brand F",
       "batchCategory": "Luxury",
       "batchDescription": "High-end cars from Brand F.",
-      "batchPriceRange": "40000-60000",
+      "averagePrice": "40000",
       "cars": [
         {
           "carId": "CAR005_01",
@@ -223,14 +227,15 @@
             "transmission": "Manual"
           }
         }
-      ]
+      ],
+      "batchSale": 19869
     },
     {
       "batchId": "BATCH006",
       "batchName": "Brand G",
       "batchCategory": "Economy",
       "batchDescription": "Affordable cars from Brand G.",
-      "batchPriceRange": "15000-25000",
+      "averagePrice": "25000",
       "cars": [
         {
           "carId": "CAR006_01",
@@ -268,14 +273,15 @@
             "transmission": "Manual"
           }
         }
-      ]
+      ],
+      "batchSale": 9487
     },
     {
       "batchId": "BATCH007",
       "batchName": "Brand H",
       "batchCategory": "Luxury",
       "batchDescription": "High-end cars from Brand H.",
-      "batchPriceRange": "40000-60000",
+      "averagePrice": "50000",
       "cars": [
         {
           "carId": "CAR007_01",
@@ -313,14 +319,15 @@
             "transmission": "Manual"
           }
         }
-      ]
+      ],
+      "batchSale": 12176
     },
     {
       "batchId": "BATCH008",
       "batchName": "Brand I",
       "batchCategory": "Economy",
       "batchDescription": "Affordable cars from Brand I.",
-      "batchPriceRange": "15000-25000",
+      "averagePrice": "25000",
       "cars": [
         {
           "carId": "CAR008_01",
@@ -358,14 +365,15 @@
             "transmission": "Manual"
           }
         }
-      ]
+      ],
+      "batchSale": 5793
     },
     {
       "batchId": "BATCH009",
       "batchName": "Brand J",
       "batchCategory": "Luxury",
       "batchDescription": "High-end cars from Brand J.",
-      "batchPriceRange": "40000-60000",
+      "averagePrice": "50000",
       "cars": [
         {
           "carId": "CAR009_01",
@@ -403,14 +411,15 @@
             "transmission": "Manual"
           }
         }
-      ]
+      ],
+      "batchSale": 8244
     },
     {
       "batchId": "BATCH010",
       "batchName": "Brand K",
       "batchCategory": "Economy",
       "batchDescription": "Affordable cars from Brand K.",
-      "batchPriceRange": "15000-25000",
+      "averagePrice": "20000",
       "cars": [
         {
           "carId": "CAR010_01",
@@ -448,14 +457,15 @@
             "transmission": "Manual"
           }
         }
-      ]
+      ],
+      "batchSale": 13152
     },
     {
       "batchId": "BATCH011",
       "batchName": "Brand L",
       "batchCategory": "Luxury",
       "batchDescription": "High-end cars from Brand L.",
-      "batchPriceRange": "40000-60000",
+      "averagePrice": "45000",
       "cars": [
         {
           "carId": "CAR011_01",
@@ -493,14 +503,15 @@
             "transmission": "Manual"
           }
         }
-      ]
+      ],
+      "batchSale": 9055
     },
     {
       "batchId": "BATCH012",
       "batchName": "Brand M",
       "batchCategory": "Economy",
       "batchDescription": "Affordable cars from Brand M.",
-      "batchPriceRange": "15000-25000",
+      "averagePrice": "15000",
       "cars": [
         {
           "carId": "CAR012_01",
@@ -538,14 +549,15 @@
             "transmission": "Manual"
           }
         }
-      ]
+      ],
+      "batchSale": 9394
     },
     {
       "batchId": "BATCH013",
       "batchName": "Brand N",
       "batchCategory": "Luxury",
       "batchDescription": "High-end cars from Brand N.",
-      "batchPriceRange": "40000-60000",
+      "averagePrice": "38000",
       "cars": [
         {
           "carId": "CAR013_01",
@@ -583,14 +595,15 @@
             "transmission": "Manual"
           }
         }
-      ]
+      ],
+      "batchSale": 19616
     },
     {
       "batchId": "BATCH014",
       "batchName": "Brand O",
       "batchCategory": "Economy",
       "batchDescription": "Affordable cars from Brand O.",
-      "batchPriceRange": "15000-25000",
+      "averagePrice": "25000",
       "cars": [
         {
           "carId": "CAR014_01",
@@ -628,14 +641,15 @@
             "transmission": "Manual"
           }
         }
-      ]
+      ],
+      "batchSale": 6858
     },
     {
       "batchId": "BATCH015",
       "batchName": "Brand P",
       "batchCategory": "Luxury",
       "batchDescription": "High-end cars from Brand P.",
-      "batchPriceRange": "40000-60000",
+      "averagePrice": "35000",
       "cars": [
         {
           "carId": "CAR015_01",
@@ -673,14 +687,15 @@
             "transmission": "Manual"
           }
         }
-      ]
+      ],
+      "batchSale": 10324
     },
     {
       "batchId": "BATCH016",
       "batchName": "Brand Q",
       "batchCategory": "Economy",
       "batchDescription": "Affordable cars from Brand Q.",
-      "batchPriceRange": "15000-25000",
+      "averagePrice": "25000",
       "cars": [
         {
           "carId": "CAR016_01",
@@ -718,14 +733,15 @@
             "transmission": "Manual"
           }
         }
-      ]
+      ],
+      "batchSale": 16856
     },
     {
       "batchId": "BATCH017",
       "batchName": "Brand R",
       "batchCategory": "Luxury",
       "batchDescription": "High-end cars from Brand R.",
-      "batchPriceRange": "40000-60000",
+      "averagePrice": "42000",
       "cars": [
         {
           "carId": "CAR017_01",
@@ -763,14 +779,15 @@
             "transmission": "Manual"
           }
         }
-      ]
+      ],
+      "batchSale": 17808
     },
     {
       "batchId": "BATCH018",
       "batchName": "Brand S",
       "batchCategory": "Economy",
       "batchDescription": "Affordable cars from Brand S.",
-      "batchPriceRange": "15000-25000",
+      "averagePrice": "15000",
       "cars": [
         {
           "carId": "CAR018_01",
@@ -808,14 +825,15 @@
             "transmission": "Manual"
           }
         }
-      ]
+      ],
+      "batchSale": 19681
     },
     {
       "batchId": "BATCH019",
       "batchName": "Brand T",
       "batchCategory": "Luxury",
       "batchDescription": "High-end cars from Brand T.",
-      "batchPriceRange": "40000-60000",
+      "averagePrice": "48000",
       "cars": [
         {
           "carId": "CAR019_01",
@@ -853,14 +871,15 @@
             "transmission": "Manual"
           }
         }
-      ]
+      ],
+      "batchSale": 8728
     },
     {
       "batchId": "BATCH020",
       "batchName": "Brand U",
       "batchCategory": "Economy",
       "batchDescription": "Affordable cars from Brand U.",
-      "batchPriceRange": "15000-25000",
+      "averagePrice": "22000",
       "cars": [
         {
           "carId": "CAR020_01",
@@ -898,14 +917,15 @@
             "transmission": "Manual"
           }
         }
-      ]
+      ],
+      "batchSale": 17847
     },
     {
       "batchId": "BATCH021",
       "batchName": "Brand V",
       "batchCategory": "Luxury",
       "batchDescription": "High-end cars from Brand V.",
-      "batchPriceRange": "40000-60000",
+      "averagePrice": "52000",
       "cars": [
         {
           "carId": "CAR021_01",
@@ -943,14 +963,15 @@
             "transmission": "Manual"
           }
         }
-      ]
+      ],
+      "batchSale": 18995
     },
     {
       "batchId": "BATCH022",
       "batchName": "Brand W",
       "batchCategory": "Economy",
       "batchDescription": "Affordable cars from Brand W.",
-      "batchPriceRange": "15000-25000",
+      "averagePrice": "21000",
       "cars": [
         {
           "carId": "CAR022_01",
@@ -988,14 +1009,15 @@
             "transmission": "Manual"
           }
         }
-      ]
+      ],
+      "batchSale": 8471
     },
     {
       "batchId": "BATCH023",
       "batchName": "Brand X",
       "batchCategory": "Luxury",
       "batchDescription": "High-end cars from Brand X.",
-      "batchPriceRange": "40000-60000",
+      "averagePrice": "37000",
       "cars": [
         {
           "carId": "CAR023_01",
@@ -1033,14 +1055,15 @@
             "transmission": "Manual"
           }
         }
-      ]
+      ],
+      "batchSale": 13509
     },
     {
       "batchId": "BATCH024",
       "batchName": "Brand Y",
       "batchCategory": "Economy",
       "batchDescription": "Affordable cars from Brand Y.",
-      "batchPriceRange": "15000-25000",
+      "averagePrice": "25000",
       "cars": [
         {
           "carId": "CAR024_01",
@@ -1078,14 +1101,15 @@
             "transmission": "Manual"
           }
         }
-      ]
+      ],
+      "batchSale": 9111
     },
     {
       "batchId": "BATCH025",
       "batchName": "Brand Z",
       "batchCategory": "Luxury",
       "batchDescription": "High-end cars from Brand Z.",
-      "batchPriceRange": "40000-60000",
+      "averagePrice": "48000",
       "cars": [
         {
           "carId": "CAR025_01",
@@ -1123,14 +1147,15 @@
             "transmission": "Manual"
           }
         }
-      ]
+      ],
+      "batchSale": 6762
     },
     {
       "batchId": "BATCH026",
       "batchName": "Brand A",
       "batchCategory": "Economy",
       "batchDescription": "Affordable cars from Brand A.",
-      "batchPriceRange": "15000-25000",
+      "averagePrice": "20000",
       "cars": [
         {
           "carId": "CAR026_01",
@@ -1168,14 +1193,15 @@
             "transmission": "Manual"
           }
         }
-      ]
+      ],
+      "batchSale": 8015
     },
     {
       "batchId": "BATCH027",
       "batchName": "Brand B",
       "batchCategory": "Luxury",
       "batchDescription": "High-end cars from Brand B.",
-      "batchPriceRange": "40000-60000",
+      "averagePrice": "50000",
       "cars": [
         {
           "carId": "CAR027_01",
@@ -1213,14 +1239,15 @@
             "transmission": "Manual"
           }
         }
-      ]
+      ],
+      "batchSale": 13071
     },
     {
       "batchId": "BATCH028",
       "batchName": "Brand C",
       "batchCategory": "Economy",
       "batchDescription": "Affordable cars from Brand C.",
-      "batchPriceRange": "15000-25000",
+      "averagePrice": "18000",
       "cars": [
         {
           "carId": "CAR028_01",
@@ -1258,14 +1285,15 @@
             "transmission": "Manual"
           }
         }
-      ]
+      ],
+      "batchSale": 18965
     },
     {
       "batchId": "BATCH029",
       "batchName": "Brand D",
       "batchCategory": "Luxury",
       "batchDescription": "High-end cars from Brand D.",
-      "batchPriceRange": "40000-60000",
+      "averagePrice": "47000",
       "cars": [
         {
           "carId": "CAR029_01",
@@ -1303,14 +1331,15 @@
             "transmission": "Manual"
           }
         }
-      ]
+      ],
+      "batchSale": 8501
     },
     {
       "batchId": "BATCH030",
       "batchName": "Brand E",
       "batchCategory": "Economy",
       "batchDescription": "Affordable cars from Brand E.",
-      "batchPriceRange": "15000-25000",
+      "averagePrice": "28000",
       "cars": [
         {
           "carId": "CAR030_01",
@@ -1348,7 +1377,8 @@
             "transmission": "Manual"
           }
         }
-      ]
+      ],
+      "batchSale": 5888
     }
   ]
 }
