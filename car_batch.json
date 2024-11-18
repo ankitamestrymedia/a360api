@@ -1,0 +1,1354 @@
+{
+  "batches": [
+    {
+      "batchId": "BATCH001",
+      "batchName": "Brand B",
+      "batchCategory": "Luxury",
+      "batchDescription": "High-end cars from Brand B.",
+      "batchPriceRange": "40000-60000",
+      "cars": [
+        {
+          "carId": "CAR001_01",
+          "carName": "Model A",
+          "year": 2022,
+          "price": 48000,
+          "specs": {
+            "engine": "2.0L V6",
+            "horsepower": 300,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        },
+        {
+          "carId": "CAR001_02",
+          "carName": "Model B",
+          "year": 2021,
+          "price": 51000,
+          "specs": {
+            "engine": "2.5L V6",
+            "horsepower": 350,
+            "fuelType": "Gasoline",
+            "transmission": "Automatic"
+          }
+        },
+        {
+          "carId": "CAR001_03",
+          "carName": "Model C",
+          "year": 2023,
+          "price": 54000,
+          "specs": {
+            "engine": "3.0L V6",
+            "horsepower": 400,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        }
+      ]
+    },
+    {
+      "batchId": "BATCH002",
+      "batchName": "Brand C",
+      "batchCategory": "Economy",
+      "batchDescription": "Affordable cars from Brand C.",
+      "batchPriceRange": "15000-25000",
+      "cars": [
+        {
+          "carId": "CAR002_01",
+          "carName": "Model A",
+          "year": 2022,
+          "price": 20000,
+          "specs": {
+            "engine": "2.0L Inline-4",
+            "horsepower": 180,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        },
+        {
+          "carId": "CAR002_02",
+          "carName": "Model B",
+          "year": 2021,
+          "price": 22000,
+          "specs": {
+            "engine": "2.5L Inline-4",
+            "horsepower": 210,
+            "fuelType": "Gasoline",
+            "transmission": "Automatic"
+          }
+        },
+        {
+          "carId": "CAR002_03",
+          "carName": "Model C",
+          "year": 2023,
+          "price": 24000,
+          "specs": {
+            "engine": "3.0L Inline-4",
+            "horsepower": 240,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        }
+      ]
+    },
+    {
+      "batchId": "BATCH003",
+      "batchName": "Brand D",
+      "batchCategory": "Luxury",
+      "batchDescription": "High-end cars from Brand D.",
+      "batchPriceRange": "40000-60000",
+      "cars": [
+        {
+          "carId": "CAR003_01",
+          "carName": "Model A",
+          "year": 2022,
+          "price": 48000,
+          "specs": {
+            "engine": "2.0L V6",
+            "horsepower": 300,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        },
+        {
+          "carId": "CAR003_02",
+          "carName": "Model B",
+          "year": 2021,
+          "price": 51000,
+          "specs": {
+            "engine": "2.5L V6",
+            "horsepower": 350,
+            "fuelType": "Gasoline",
+            "transmission": "Automatic"
+          }
+        },
+        {
+          "carId": "CAR003_03",
+          "carName": "Model C",
+          "year": 2023,
+          "price": 54000,
+          "specs": {
+            "engine": "3.0L V6",
+            "horsepower": 400,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        }
+      ]
+    },
+    {
+      "batchId": "BATCH004",
+      "batchName": "Brand E",
+      "batchCategory": "Economy",
+      "batchDescription": "Affordable cars from Brand E.",
+      "batchPriceRange": "15000-25000",
+      "cars": [
+        {
+          "carId": "CAR004_01",
+          "carName": "Model A",
+          "year": 2022,
+          "price": 20000,
+          "specs": {
+            "engine": "2.0L Inline-4",
+            "horsepower": 180,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        },
+        {
+          "carId": "CAR004_02",
+          "carName": "Model B",
+          "year": 2021,
+          "price": 22000,
+          "specs": {
+            "engine": "2.5L Inline-4",
+            "horsepower": 210,
+            "fuelType": "Gasoline",
+            "transmission": "Automatic"
+          }
+        },
+        {
+          "carId": "CAR004_03",
+          "carName": "Model C",
+          "year": 2023,
+          "price": 24000,
+          "specs": {
+            "engine": "3.0L Inline-4",
+            "horsepower": 240,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        }
+      ]
+    },
+    {
+      "batchId": "BATCH005",
+      "batchName": "Brand F",
+      "batchCategory": "Luxury",
+      "batchDescription": "High-end cars from Brand F.",
+      "batchPriceRange": "40000-60000",
+      "cars": [
+        {
+          "carId": "CAR005_01",
+          "carName": "Model A",
+          "year": 2022,
+          "price": 48000,
+          "specs": {
+            "engine": "2.0L V6",
+            "horsepower": 300,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        },
+        {
+          "carId": "CAR005_02",
+          "carName": "Model B",
+          "year": 2021,
+          "price": 51000,
+          "specs": {
+            "engine": "2.5L V6",
+            "horsepower": 350,
+            "fuelType": "Gasoline",
+            "transmission": "Automatic"
+          }
+        },
+        {
+          "carId": "CAR005_03",
+          "carName": "Model C",
+          "year": 2023,
+          "price": 54000,
+          "specs": {
+            "engine": "3.0L V6",
+            "horsepower": 400,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        }
+      ]
+    },
+    {
+      "batchId": "BATCH006",
+      "batchName": "Brand G",
+      "batchCategory": "Economy",
+      "batchDescription": "Affordable cars from Brand G.",
+      "batchPriceRange": "15000-25000",
+      "cars": [
+        {
+          "carId": "CAR006_01",
+          "carName": "Model A",
+          "year": 2022,
+          "price": 20000,
+          "specs": {
+            "engine": "2.0L Inline-4",
+            "horsepower": 180,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        },
+        {
+          "carId": "CAR006_02",
+          "carName": "Model B",
+          "year": 2021,
+          "price": 22000,
+          "specs": {
+            "engine": "2.5L Inline-4",
+            "horsepower": 210,
+            "fuelType": "Gasoline",
+            "transmission": "Automatic"
+          }
+        },
+        {
+          "carId": "CAR006_03",
+          "carName": "Model C",
+          "year": 2023,
+          "price": 24000,
+          "specs": {
+            "engine": "3.0L Inline-4",
+            "horsepower": 240,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        }
+      ]
+    },
+    {
+      "batchId": "BATCH007",
+      "batchName": "Brand H",
+      "batchCategory": "Luxury",
+      "batchDescription": "High-end cars from Brand H.",
+      "batchPriceRange": "40000-60000",
+      "cars": [
+        {
+          "carId": "CAR007_01",
+          "carName": "Model A",
+          "year": 2022,
+          "price": 48000,
+          "specs": {
+            "engine": "2.0L V6",
+            "horsepower": 300,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        },
+        {
+          "carId": "CAR007_02",
+          "carName": "Model B",
+          "year": 2021,
+          "price": 51000,
+          "specs": {
+            "engine": "2.5L V6",
+            "horsepower": 350,
+            "fuelType": "Gasoline",
+            "transmission": "Automatic"
+          }
+        },
+        {
+          "carId": "CAR007_03",
+          "carName": "Model C",
+          "year": 2023,
+          "price": 54000,
+          "specs": {
+            "engine": "3.0L V6",
+            "horsepower": 400,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        }
+      ]
+    },
+    {
+      "batchId": "BATCH008",
+      "batchName": "Brand I",
+      "batchCategory": "Economy",
+      "batchDescription": "Affordable cars from Brand I.",
+      "batchPriceRange": "15000-25000",
+      "cars": [
+        {
+          "carId": "CAR008_01",
+          "carName": "Model A",
+          "year": 2022,
+          "price": 20000,
+          "specs": {
+            "engine": "2.0L Inline-4",
+            "horsepower": 180,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        },
+        {
+          "carId": "CAR008_02",
+          "carName": "Model B",
+          "year": 2021,
+          "price": 22000,
+          "specs": {
+            "engine": "2.5L Inline-4",
+            "horsepower": 210,
+            "fuelType": "Gasoline",
+            "transmission": "Automatic"
+          }
+        },
+        {
+          "carId": "CAR008_03",
+          "carName": "Model C",
+          "year": 2023,
+          "price": 24000,
+          "specs": {
+            "engine": "3.0L Inline-4",
+            "horsepower": 240,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        }
+      ]
+    },
+    {
+      "batchId": "BATCH009",
+      "batchName": "Brand J",
+      "batchCategory": "Luxury",
+      "batchDescription": "High-end cars from Brand J.",
+      "batchPriceRange": "40000-60000",
+      "cars": [
+        {
+          "carId": "CAR009_01",
+          "carName": "Model A",
+          "year": 2022,
+          "price": 48000,
+          "specs": {
+            "engine": "2.0L V6",
+            "horsepower": 300,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        },
+        {
+          "carId": "CAR009_02",
+          "carName": "Model B",
+          "year": 2021,
+          "price": 51000,
+          "specs": {
+            "engine": "2.5L V6",
+            "horsepower": 350,
+            "fuelType": "Gasoline",
+            "transmission": "Automatic"
+          }
+        },
+        {
+          "carId": "CAR009_03",
+          "carName": "Model C",
+          "year": 2023,
+          "price": 54000,
+          "specs": {
+            "engine": "3.0L V6",
+            "horsepower": 400,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        }
+      ]
+    },
+    {
+      "batchId": "BATCH010",
+      "batchName": "Brand K",
+      "batchCategory": "Economy",
+      "batchDescription": "Affordable cars from Brand K.",
+      "batchPriceRange": "15000-25000",
+      "cars": [
+        {
+          "carId": "CAR010_01",
+          "carName": "Model A",
+          "year": 2022,
+          "price": 20000,
+          "specs": {
+            "engine": "2.0L Inline-4",
+            "horsepower": 180,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        },
+        {
+          "carId": "CAR010_02",
+          "carName": "Model B",
+          "year": 2021,
+          "price": 22000,
+          "specs": {
+            "engine": "2.5L Inline-4",
+            "horsepower": 210,
+            "fuelType": "Gasoline",
+            "transmission": "Automatic"
+          }
+        },
+        {
+          "carId": "CAR010_03",
+          "carName": "Model C",
+          "year": 2023,
+          "price": 24000,
+          "specs": {
+            "engine": "3.0L Inline-4",
+            "horsepower": 240,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        }
+      ]
+    },
+    {
+      "batchId": "BATCH011",
+      "batchName": "Brand L",
+      "batchCategory": "Luxury",
+      "batchDescription": "High-end cars from Brand L.",
+      "batchPriceRange": "40000-60000",
+      "cars": [
+        {
+          "carId": "CAR011_01",
+          "carName": "Model A",
+          "year": 2022,
+          "price": 48000,
+          "specs": {
+            "engine": "2.0L V6",
+            "horsepower": 300,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        },
+        {
+          "carId": "CAR011_02",
+          "carName": "Model B",
+          "year": 2021,
+          "price": 51000,
+          "specs": {
+            "engine": "2.5L V6",
+            "horsepower": 350,
+            "fuelType": "Gasoline",
+            "transmission": "Automatic"
+          }
+        },
+        {
+          "carId": "CAR011_03",
+          "carName": "Model C",
+          "year": 2023,
+          "price": 54000,
+          "specs": {
+            "engine": "3.0L V6",
+            "horsepower": 400,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        }
+      ]
+    },
+    {
+      "batchId": "BATCH012",
+      "batchName": "Brand M",
+      "batchCategory": "Economy",
+      "batchDescription": "Affordable cars from Brand M.",
+      "batchPriceRange": "15000-25000",
+      "cars": [
+        {
+          "carId": "CAR012_01",
+          "carName": "Model A",
+          "year": 2022,
+          "price": 20000,
+          "specs": {
+            "engine": "2.0L Inline-4",
+            "horsepower": 180,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        },
+        {
+          "carId": "CAR012_02",
+          "carName": "Model B",
+          "year": 2021,
+          "price": 22000,
+          "specs": {
+            "engine": "2.5L Inline-4",
+            "horsepower": 210,
+            "fuelType": "Gasoline",
+            "transmission": "Automatic"
+          }
+        },
+        {
+          "carId": "CAR012_03",
+          "carName": "Model C",
+          "year": 2023,
+          "price": 24000,
+          "specs": {
+            "engine": "3.0L Inline-4",
+            "horsepower": 240,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        }
+      ]
+    },
+    {
+      "batchId": "BATCH013",
+      "batchName": "Brand N",
+      "batchCategory": "Luxury",
+      "batchDescription": "High-end cars from Brand N.",
+      "batchPriceRange": "40000-60000",
+      "cars": [
+        {
+          "carId": "CAR013_01",
+          "carName": "Model A",
+          "year": 2022,
+          "price": 48000,
+          "specs": {
+            "engine": "2.0L V6",
+            "horsepower": 300,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        },
+        {
+          "carId": "CAR013_02",
+          "carName": "Model B",
+          "year": 2021,
+          "price": 51000,
+          "specs": {
+            "engine": "2.5L V6",
+            "horsepower": 350,
+            "fuelType": "Gasoline",
+            "transmission": "Automatic"
+          }
+        },
+        {
+          "carId": "CAR013_03",
+          "carName": "Model C",
+          "year": 2023,
+          "price": 54000,
+          "specs": {
+            "engine": "3.0L V6",
+            "horsepower": 400,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        }
+      ]
+    },
+    {
+      "batchId": "BATCH014",
+      "batchName": "Brand O",
+      "batchCategory": "Economy",
+      "batchDescription": "Affordable cars from Brand O.",
+      "batchPriceRange": "15000-25000",
+      "cars": [
+        {
+          "carId": "CAR014_01",
+          "carName": "Model A",
+          "year": 2022,
+          "price": 20000,
+          "specs": {
+            "engine": "2.0L Inline-4",
+            "horsepower": 180,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        },
+        {
+          "carId": "CAR014_02",
+          "carName": "Model B",
+          "year": 2021,
+          "price": 22000,
+          "specs": {
+            "engine": "2.5L Inline-4",
+            "horsepower": 210,
+            "fuelType": "Gasoline",
+            "transmission": "Automatic"
+          }
+        },
+        {
+          "carId": "CAR014_03",
+          "carName": "Model C",
+          "year": 2023,
+          "price": 24000,
+          "specs": {
+            "engine": "3.0L Inline-4",
+            "horsepower": 240,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        }
+      ]
+    },
+    {
+      "batchId": "BATCH015",
+      "batchName": "Brand P",
+      "batchCategory": "Luxury",
+      "batchDescription": "High-end cars from Brand P.",
+      "batchPriceRange": "40000-60000",
+      "cars": [
+        {
+          "carId": "CAR015_01",
+          "carName": "Model A",
+          "year": 2022,
+          "price": 48000,
+          "specs": {
+            "engine": "2.0L V6",
+            "horsepower": 300,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        },
+        {
+          "carId": "CAR015_02",
+          "carName": "Model B",
+          "year": 2021,
+          "price": 51000,
+          "specs": {
+            "engine": "2.5L V6",
+            "horsepower": 350,
+            "fuelType": "Gasoline",
+            "transmission": "Automatic"
+          }
+        },
+        {
+          "carId": "CAR015_03",
+          "carName": "Model C",
+          "year": 2023,
+          "price": 54000,
+          "specs": {
+            "engine": "3.0L V6",
+            "horsepower": 400,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        }
+      ]
+    },
+    {
+      "batchId": "BATCH016",
+      "batchName": "Brand Q",
+      "batchCategory": "Economy",
+      "batchDescription": "Affordable cars from Brand Q.",
+      "batchPriceRange": "15000-25000",
+      "cars": [
+        {
+          "carId": "CAR016_01",
+          "carName": "Model A",
+          "year": 2022,
+          "price": 20000,
+          "specs": {
+            "engine": "2.0L Inline-4",
+            "horsepower": 180,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        },
+        {
+          "carId": "CAR016_02",
+          "carName": "Model B",
+          "year": 2021,
+          "price": 22000,
+          "specs": {
+            "engine": "2.5L Inline-4",
+            "horsepower": 210,
+            "fuelType": "Gasoline",
+            "transmission": "Automatic"
+          }
+        },
+        {
+          "carId": "CAR016_03",
+          "carName": "Model C",
+          "year": 2023,
+          "price": 24000,
+          "specs": {
+            "engine": "3.0L Inline-4",
+            "horsepower": 240,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        }
+      ]
+    },
+    {
+      "batchId": "BATCH017",
+      "batchName": "Brand R",
+      "batchCategory": "Luxury",
+      "batchDescription": "High-end cars from Brand R.",
+      "batchPriceRange": "40000-60000",
+      "cars": [
+        {
+          "carId": "CAR017_01",
+          "carName": "Model A",
+          "year": 2022,
+          "price": 48000,
+          "specs": {
+            "engine": "2.0L V6",
+            "horsepower": 300,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        },
+        {
+          "carId": "CAR017_02",
+          "carName": "Model B",
+          "year": 2021,
+          "price": 51000,
+          "specs": {
+            "engine": "2.5L V6",
+            "horsepower": 350,
+            "fuelType": "Gasoline",
+            "transmission": "Automatic"
+          }
+        },
+        {
+          "carId": "CAR017_03",
+          "carName": "Model C",
+          "year": 2023,
+          "price": 54000,
+          "specs": {
+            "engine": "3.0L V6",
+            "horsepower": 400,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        }
+      ]
+    },
+    {
+      "batchId": "BATCH018",
+      "batchName": "Brand S",
+      "batchCategory": "Economy",
+      "batchDescription": "Affordable cars from Brand S.",
+      "batchPriceRange": "15000-25000",
+      "cars": [
+        {
+          "carId": "CAR018_01",
+          "carName": "Model A",
+          "year": 2022,
+          "price": 20000,
+          "specs": {
+            "engine": "2.0L Inline-4",
+            "horsepower": 180,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        },
+        {
+          "carId": "CAR018_02",
+          "carName": "Model B",
+          "year": 2021,
+          "price": 22000,
+          "specs": {
+            "engine": "2.5L Inline-4",
+            "horsepower": 210,
+            "fuelType": "Gasoline",
+            "transmission": "Automatic"
+          }
+        },
+        {
+          "carId": "CAR018_03",
+          "carName": "Model C",
+          "year": 2023,
+          "price": 24000,
+          "specs": {
+            "engine": "3.0L Inline-4",
+            "horsepower": 240,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        }
+      ]
+    },
+    {
+      "batchId": "BATCH019",
+      "batchName": "Brand T",
+      "batchCategory": "Luxury",
+      "batchDescription": "High-end cars from Brand T.",
+      "batchPriceRange": "40000-60000",
+      "cars": [
+        {
+          "carId": "CAR019_01",
+          "carName": "Model A",
+          "year": 2022,
+          "price": 48000,
+          "specs": {
+            "engine": "2.0L V6",
+            "horsepower": 300,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        },
+        {
+          "carId": "CAR019_02",
+          "carName": "Model B",
+          "year": 2021,
+          "price": 51000,
+          "specs": {
+            "engine": "2.5L V6",
+            "horsepower": 350,
+            "fuelType": "Gasoline",
+            "transmission": "Automatic"
+          }
+        },
+        {
+          "carId": "CAR019_03",
+          "carName": "Model C",
+          "year": 2023,
+          "price": 54000,
+          "specs": {
+            "engine": "3.0L V6",
+            "horsepower": 400,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        }
+      ]
+    },
+    {
+      "batchId": "BATCH020",
+      "batchName": "Brand U",
+      "batchCategory": "Economy",
+      "batchDescription": "Affordable cars from Brand U.",
+      "batchPriceRange": "15000-25000",
+      "cars": [
+        {
+          "carId": "CAR020_01",
+          "carName": "Model A",
+          "year": 2022,
+          "price": 20000,
+          "specs": {
+            "engine": "2.0L Inline-4",
+            "horsepower": 180,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        },
+        {
+          "carId": "CAR020_02",
+          "carName": "Model B",
+          "year": 2021,
+          "price": 22000,
+          "specs": {
+            "engine": "2.5L Inline-4",
+            "horsepower": 210,
+            "fuelType": "Gasoline",
+            "transmission": "Automatic"
+          }
+        },
+        {
+          "carId": "CAR020_03",
+          "carName": "Model C",
+          "year": 2023,
+          "price": 24000,
+          "specs": {
+            "engine": "3.0L Inline-4",
+            "horsepower": 240,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        }
+      ]
+    },
+    {
+      "batchId": "BATCH021",
+      "batchName": "Brand V",
+      "batchCategory": "Luxury",
+      "batchDescription": "High-end cars from Brand V.",
+      "batchPriceRange": "40000-60000",
+      "cars": [
+        {
+          "carId": "CAR021_01",
+          "carName": "Model A",
+          "year": 2022,
+          "price": 48000,
+          "specs": {
+            "engine": "2.0L V6",
+            "horsepower": 300,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        },
+        {
+          "carId": "CAR021_02",
+          "carName": "Model B",
+          "year": 2021,
+          "price": 51000,
+          "specs": {
+            "engine": "2.5L V6",
+            "horsepower": 350,
+            "fuelType": "Gasoline",
+            "transmission": "Automatic"
+          }
+        },
+        {
+          "carId": "CAR021_03",
+          "carName": "Model C",
+          "year": 2023,
+          "price": 54000,
+          "specs": {
+            "engine": "3.0L V6",
+            "horsepower": 400,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        }
+      ]
+    },
+    {
+      "batchId": "BATCH022",
+      "batchName": "Brand W",
+      "batchCategory": "Economy",
+      "batchDescription": "Affordable cars from Brand W.",
+      "batchPriceRange": "15000-25000",
+      "cars": [
+        {
+          "carId": "CAR022_01",
+          "carName": "Model A",
+          "year": 2022,
+          "price": 20000,
+          "specs": {
+            "engine": "2.0L Inline-4",
+            "horsepower": 180,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        },
+        {
+          "carId": "CAR022_02",
+          "carName": "Model B",
+          "year": 2021,
+          "price": 22000,
+          "specs": {
+            "engine": "2.5L Inline-4",
+            "horsepower": 210,
+            "fuelType": "Gasoline",
+            "transmission": "Automatic"
+          }
+        },
+        {
+          "carId": "CAR022_03",
+          "carName": "Model C",
+          "year": 2023,
+          "price": 24000,
+          "specs": {
+            "engine": "3.0L Inline-4",
+            "horsepower": 240,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        }
+      ]
+    },
+    {
+      "batchId": "BATCH023",
+      "batchName": "Brand X",
+      "batchCategory": "Luxury",
+      "batchDescription": "High-end cars from Brand X.",
+      "batchPriceRange": "40000-60000",
+      "cars": [
+        {
+          "carId": "CAR023_01",
+          "carName": "Model A",
+          "year": 2022,
+          "price": 48000,
+          "specs": {
+            "engine": "2.0L V6",
+            "horsepower": 300,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        },
+        {
+          "carId": "CAR023_02",
+          "carName": "Model B",
+          "year": 2021,
+          "price": 51000,
+          "specs": {
+            "engine": "2.5L V6",
+            "horsepower": 350,
+            "fuelType": "Gasoline",
+            "transmission": "Automatic"
+          }
+        },
+        {
+          "carId": "CAR023_03",
+          "carName": "Model C",
+          "year": 2023,
+          "price": 54000,
+          "specs": {
+            "engine": "3.0L V6",
+            "horsepower": 400,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        }
+      ]
+    },
+    {
+      "batchId": "BATCH024",
+      "batchName": "Brand Y",
+      "batchCategory": "Economy",
+      "batchDescription": "Affordable cars from Brand Y.",
+      "batchPriceRange": "15000-25000",
+      "cars": [
+        {
+          "carId": "CAR024_01",
+          "carName": "Model A",
+          "year": 2022,
+          "price": 20000,
+          "specs": {
+            "engine": "2.0L Inline-4",
+            "horsepower": 180,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        },
+        {
+          "carId": "CAR024_02",
+          "carName": "Model B",
+          "year": 2021,
+          "price": 22000,
+          "specs": {
+            "engine": "2.5L Inline-4",
+            "horsepower": 210,
+            "fuelType": "Gasoline",
+            "transmission": "Automatic"
+          }
+        },
+        {
+          "carId": "CAR024_03",
+          "carName": "Model C",
+          "year": 2023,
+          "price": 24000,
+          "specs": {
+            "engine": "3.0L Inline-4",
+            "horsepower": 240,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        }
+      ]
+    },
+    {
+      "batchId": "BATCH025",
+      "batchName": "Brand Z",
+      "batchCategory": "Luxury",
+      "batchDescription": "High-end cars from Brand Z.",
+      "batchPriceRange": "40000-60000",
+      "cars": [
+        {
+          "carId": "CAR025_01",
+          "carName": "Model A",
+          "year": 2022,
+          "price": 48000,
+          "specs": {
+            "engine": "2.0L V6",
+            "horsepower": 300,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        },
+        {
+          "carId": "CAR025_02",
+          "carName": "Model B",
+          "year": 2021,
+          "price": 51000,
+          "specs": {
+            "engine": "2.5L V6",
+            "horsepower": 350,
+            "fuelType": "Gasoline",
+            "transmission": "Automatic"
+          }
+        },
+        {
+          "carId": "CAR025_03",
+          "carName": "Model C",
+          "year": 2023,
+          "price": 54000,
+          "specs": {
+            "engine": "3.0L V6",
+            "horsepower": 400,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        }
+      ]
+    },
+    {
+      "batchId": "BATCH026",
+      "batchName": "Brand A",
+      "batchCategory": "Economy",
+      "batchDescription": "Affordable cars from Brand A.",
+      "batchPriceRange": "15000-25000",
+      "cars": [
+        {
+          "carId": "CAR026_01",
+          "carName": "Model A",
+          "year": 2022,
+          "price": 20000,
+          "specs": {
+            "engine": "2.0L Inline-4",
+            "horsepower": 180,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        },
+        {
+          "carId": "CAR026_02",
+          "carName": "Model B",
+          "year": 2021,
+          "price": 22000,
+          "specs": {
+            "engine": "2.5L Inline-4",
+            "horsepower": 210,
+            "fuelType": "Gasoline",
+            "transmission": "Automatic"
+          }
+        },
+        {
+          "carId": "CAR026_03",
+          "carName": "Model C",
+          "year": 2023,
+          "price": 24000,
+          "specs": {
+            "engine": "3.0L Inline-4",
+            "horsepower": 240,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        }
+      ]
+    },
+    {
+      "batchId": "BATCH027",
+      "batchName": "Brand B",
+      "batchCategory": "Luxury",
+      "batchDescription": "High-end cars from Brand B.",
+      "batchPriceRange": "40000-60000",
+      "cars": [
+        {
+          "carId": "CAR027_01",
+          "carName": "Model A",
+          "year": 2022,
+          "price": 48000,
+          "specs": {
+            "engine": "2.0L V6",
+            "horsepower": 300,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        },
+        {
+          "carId": "CAR027_02",
+          "carName": "Model B",
+          "year": 2021,
+          "price": 51000,
+          "specs": {
+            "engine": "2.5L V6",
+            "horsepower": 350,
+            "fuelType": "Gasoline",
+            "transmission": "Automatic"
+          }
+        },
+        {
+          "carId": "CAR027_03",
+          "carName": "Model C",
+          "year": 2023,
+          "price": 54000,
+          "specs": {
+            "engine": "3.0L V6",
+            "horsepower": 400,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        }
+      ]
+    },
+    {
+      "batchId": "BATCH028",
+      "batchName": "Brand C",
+      "batchCategory": "Economy",
+      "batchDescription": "Affordable cars from Brand C.",
+      "batchPriceRange": "15000-25000",
+      "cars": [
+        {
+          "carId": "CAR028_01",
+          "carName": "Model A",
+          "year": 2022,
+          "price": 20000,
+          "specs": {
+            "engine": "2.0L Inline-4",
+            "horsepower": 180,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        },
+        {
+          "carId": "CAR028_02",
+          "carName": "Model B",
+          "year": 2021,
+          "price": 22000,
+          "specs": {
+            "engine": "2.5L Inline-4",
+            "horsepower": 210,
+            "fuelType": "Gasoline",
+            "transmission": "Automatic"
+          }
+        },
+        {
+          "carId": "CAR028_03",
+          "carName": "Model C",
+          "year": 2023,
+          "price": 24000,
+          "specs": {
+            "engine": "3.0L Inline-4",
+            "horsepower": 240,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        }
+      ]
+    },
+    {
+      "batchId": "BATCH029",
+      "batchName": "Brand D",
+      "batchCategory": "Luxury",
+      "batchDescription": "High-end cars from Brand D.",
+      "batchPriceRange": "40000-60000",
+      "cars": [
+        {
+          "carId": "CAR029_01",
+          "carName": "Model A",
+          "year": 2022,
+          "price": 48000,
+          "specs": {
+            "engine": "2.0L V6",
+            "horsepower": 300,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        },
+        {
+          "carId": "CAR029_02",
+          "carName": "Model B",
+          "year": 2021,
+          "price": 51000,
+          "specs": {
+            "engine": "2.5L V6",
+            "horsepower": 350,
+            "fuelType": "Gasoline",
+            "transmission": "Automatic"
+          }
+        },
+        {
+          "carId": "CAR029_03",
+          "carName": "Model C",
+          "year": 2023,
+          "price": 54000,
+          "specs": {
+            "engine": "3.0L V6",
+            "horsepower": 400,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        }
+      ]
+    },
+    {
+      "batchId": "BATCH030",
+      "batchName": "Brand E",
+      "batchCategory": "Economy",
+      "batchDescription": "Affordable cars from Brand E.",
+      "batchPriceRange": "15000-25000",
+      "cars": [
+        {
+          "carId": "CAR030_01",
+          "carName": "Model A",
+          "year": 2022,
+          "price": 20000,
+          "specs": {
+            "engine": "2.0L Inline-4",
+            "horsepower": 180,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        },
+        {
+          "carId": "CAR030_02",
+          "carName": "Model B",
+          "year": 2021,
+          "price": 22000,
+          "specs": {
+            "engine": "2.5L Inline-4",
+            "horsepower": 210,
+            "fuelType": "Gasoline",
+            "transmission": "Automatic"
+          }
+        },
+        {
+          "carId": "CAR030_03",
+          "carName": "Model C",
+          "year": 2023,
+          "price": 24000,
+          "specs": {
+            "engine": "3.0L Inline-4",
+            "horsepower": 240,
+            "fuelType": "Hybrid",
+            "transmission": "Manual"
+          }
+        }
+      ]
+    }
+  ]
+}
